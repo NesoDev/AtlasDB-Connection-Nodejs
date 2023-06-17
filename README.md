@@ -76,4 +76,4 @@ Si todo está configurado correctamente, verá un mensaje de confirmación que i
 
 You successfully connected to MongoDB!
 
-¡Felicitaciones! Ahora estás conectado a tu base de datos MongoDB en MongoDB Atlas utilizando Node.js.
+¡Felicitaciones! Ahora está conectado a su base de datos MongoDB en MongoDB Atlas utilizando Node.js.
