@@ -63,10 +63,6 @@ Clone o descarge el código fuente desde el repositorio correspondiente. Puedes 
 Reemplaza <URL_DEL_REPOSITORIO> con la URL del repositorio que deseas clonar. Por ejemplo: git clone https://github.com/tu-usuario/tu-repositorio.
 Esto creará una copia local del repositorio en tu sistema.
 
-# Instalar dependencias
-Abra una terminal y navege hasta el directorio donde clonó el repositorio. Ejecute el siguiente comando para instalar las dependencias necesarias: 'npm install'
-Esto descargará e instalará el controlador oficial de MongoDB para Node.js y todas sus dependencias.
-
 # Configurar la URI de conexión
 Abra el archivo 'app.js' en un su IDE de preferencia y busque la siguiente línea:
 'const uri = "mongodb+srv://<username>:<password>@<cluster-name>.mongodb.net/<database>?retryWrites=true&w=majority";'
