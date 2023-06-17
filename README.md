@@ -60,7 +60,7 @@ Clone o descarge el código fuente desde el repositorio correspondiente. Puedes 
 2. Navege hasta el directorio donde deseas clonar el repositorio.
 
 3. Ejecute el siguiente comando para clonar el repositorio: 'git clone <URL_DEL_REPOSITORIO>'
-Reemplaza <URL_DEL_REPOSITORIO> con la URL del repositorio que deseas clonar. Por ejemplo: git clone https://github.com/tu-usuario/tu-repositorio.
+Reemplaza <URL_DEL_REPOSITORIO> con la URL del repositorio que deseas clonar. Por ejemplo: 'git clone https://github.com/tu-usuario/tu-repositorio'.
 Esto creará una copia local del repositorio en tu sistema.
 
 # Configurar la URI de conexión
@@ -71,7 +71,7 @@ Reemplaze la URI de conexión con la que obtuvo de MongoDB Atlas. Asegúrese de 
 # Ejecutar el código
 Una vez que haya configurado la URI de conexión, está listo para ejecutar el código y establecer la conexión con su base de datos en MongoDB Atlas.
 
-Abra una terminal y navege hasta el directorio donde se encuentra el código. Ejecute el siguiente comando para ejecutar el script: 'node index.js'
+Abra una terminal y navege hasta el directorio donde se encuentra el código. Ejecute el siguiente comando para ejecutar el script: 'node index.js'.
 Si todo está configurado correctamente, verá un mensaje de confirmación que indica que se ha conectado exitosamente a MongoDB Atlas.
 
 You successfully connected to MongoDB!
