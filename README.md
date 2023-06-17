@@ -65,7 +65,7 @@ Esto creará una copia local del repositorio en tu sistema.
 
 # Configurar la URI de conexión
 Abra el archivo 'app.js' en un su IDE de preferencia y busque la siguiente línea:
-'const uri = "mongodb+srv://<username>:<password>@<cluster-name>.mongodb.net/<database>?retryWrites=true&w=majority";'
+'const uri = "mongodb+srv://<username>:<password>@<cluster-name>.mongodb.net/<database>?retryWrites=true&w=majority";'.
 Reemplaze la URI de conexión con la que obtuvo de MongoDB Atlas. Asegúrese de que la URI esté entre comillas dobles y que tenga el formato correcto. Recuerde reemplazar <username>, <password> con los valores correctos.
 
 # Ejecutar el código
