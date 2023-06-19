@@ -71,7 +71,7 @@ Reemplaze la URI de conexión con la que obtuvo de MongoDB Atlas. Asegúrese de 
 # Ejecutar el código
 Una vez que haya configurado la URI de conexión, está listo para ejecutar el código y establecer la conexión con su base de datos en MongoDB Atlas.
 
-Abra una terminal y navege hasta el directorio donde se encuentra el código. Ejecute el siguiente comando para ejecutar el script: 'node index.js'.
+Abra una terminal y navege hasta el directorio donde se encuentra el código. Ejecute el siguiente comando para ejecutar el script: 'node app.js'.
 Si todo está configurado correctamente, verá un mensaje de confirmación que indica que se ha conectado exitosamente a MongoDB Atlas.
 
 You successfully connected to MongoDB!
