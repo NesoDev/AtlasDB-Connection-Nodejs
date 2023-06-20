@@ -4,7 +4,8 @@
     "description": "Conexión a MongoDB Atlas usando Node.js",
     "main": "app.js",
     "dependencies": {
-      "mongodb": "^4.3.0"
+      "mongodb": "^4.3.0",
+      "node.js": "v18.16.0"
     }
 }
   
