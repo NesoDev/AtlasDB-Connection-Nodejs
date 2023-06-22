@@ -10,7 +10,7 @@ Este archivo README proporcionará instrucciones detalladas sobre cómo ejecutar
 	SUPERVISADO POR:
 	- Arredondo Castillo Gustavo 
 	- Fiestas Manuel
-# Intructivo
+# Instructivo
 Siga cada uno de los siguientes pasos.
 
 ## Crear una cuenta en MongoDB Atlas
